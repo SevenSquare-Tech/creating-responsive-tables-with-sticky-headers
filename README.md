@@ -1,6 +1,6 @@
 Responsive Table Fixed Header built with Bootstrap 5. Use this option to make your table header sticky to the top while scrolling. Examples and tutorial.
 
-Check out [Bootstrap Table Fixed Header Documentation](https://mdbootstrap.com/docs/standard/extended/table-fixed-header/) for detailed instructions & even more examples.
+
 
 ## Basic example
 
