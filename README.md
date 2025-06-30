@@ -1,6 +1,6 @@
 Responsive Table Fixed Header built with Bootstrap 5. Use this option to make your table header sticky to the top while scrolling. Examples and tutorial.
 
-
+[Create a responsive table with sticky headers using HTML & CSS](https://www.sevensquaretech.com/create-responsive-table-sticky-header-html-css/)
 
 ## Basic example
 
